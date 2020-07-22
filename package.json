@@ -1,0 +1,14 @@
+{
+  "name": "upea-bot-whatsap",
+  "version": "1.0.0",
+  "description": "Version Robot NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reynaldo Coronel Lazo",
+  "license": "ISC",
+  "dependencies": {
+    "venom-bot": "^1.0.9"
+  }
+}
